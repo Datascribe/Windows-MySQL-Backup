@@ -1,0 +1,1 @@
+C:\php\php.exe C:/MySQLBackup/sqlbackup.php
